@@ -1,0 +1,9 @@
+.container figure{
+    box-shadow: 1px 10px 15px rgba(0, 0, 0, 0.50);
+}
+
+.container figure img:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
